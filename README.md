@@ -1,2 +1,5 @@
 # pi-sac
-raspberry pi s(ervo) a(rm) c(amera)
+Raspberry Pi Servo Arm Camera
+
+Python script to control servos for movement.
+Bash scripts to capture and download pictures and videos.
